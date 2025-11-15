@@ -1,1 +1,1 @@
-revision   from start till git stash nad making notes 
+revision   from start till git stash nad making notes  working now
