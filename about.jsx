@@ -1,7 +1,7 @@
 //hy this is about 
 
 function about(){
-    console.log("about.com")
+    console.log("welocmed to about section")
 }
 
 about()
