@@ -1,1 +1,1 @@
-console.lgo("feature3 is working")
+console.log("feature3 is working")
